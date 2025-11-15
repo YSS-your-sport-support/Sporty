@@ -75,11 +75,12 @@ Dr. Eman Abdellatif
 
 You can find all project materials here:
 
-[UX / Figjam](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
+[UX Figjam File](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
 
-[UI / Figma](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
+[UI / Figma File](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
 
 <h3>License:-</h3>
 
 This project is shared for educational and non-commercial purposes. You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
 
+<h1 align="center"> Thanks for watching - Sporty Team</h1>
