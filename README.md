@@ -23,3 +23,22 @@ Each sport comes with its own world of training tips, skill levels, movement gui
 - Color palette & typography
 - Style guide
 
+**3-Main Designs**
+
+Low-, Mid-, and High-fidelity designs
+Website Design
+Mobile app Design
+
+**4-Review & Finalization**
+
+- Team review and improvements
+
+**5-Final Presentation**
+
+- Presentation Figma
+- Presentation PDF
+- Upload to GitHub
+
+<h3>Team Members:-</h3>
+
+
