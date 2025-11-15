@@ -67,3 +67,15 @@ Sohila Mohamed
 - Primary: Research, Competitor Analysis,  Color palette, Typography, Information Architecture
 - Secondary: Visual design(website& mobile), Soccer ball profile Home Screen,  Prototype, Case Study
 
+<h3>Instructor:-</h3>
+
+Dr. Eman Abdellatif
+
+<h3>Project Files</h3>
+
+You can find all project materials here:
+UX / Figjam:[Click here](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
+UI / Figma:[Click here](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
+
+
+
