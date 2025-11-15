@@ -41,11 +41,29 @@ Mobile app Design
 
 <h3>Team Members:-</h3>
 
-1-aliaa Shafik (TL)
-2-heba khalid
-3-kerillos samy
-4-menna younis
-5-reem Mohamed Noaman
-6-sohila Mohamed
+Aliaa Shafik (TL)
+- Primary: Research, Competitor Analysis, Survey,  Color palette, Typography, Information Architecture
+- Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+  
+Heba khalid
+- Primary: Research, Competitor Analysis, Color palette, Typography, Information Architecture
+- Secondary: Visual design(website& mobile),Volleyball profile  Home Screen, Prototype, Case Study
 
+  
+Kerillos samy
+- Primary: Research, Competitor Analysis, User Persona, Color palette, Typography, Information Architecture IA
+- Secondary: Visual design(website& mobile), Swimming profile Home Screen, Chat Screen, Prototype, Case Study
+
+  
+Menna younis
+- Primary: Research, Competitor Analysis, Card Sorting, User Persona, Color palette, Typography, Information Architecture
+- Secondary: Visual design(website& mobile), Gymnastics profile Home Screen, Prototype, Case Study
+
+Reem Mohamed Noaman
+- Primary: Research, Competitor Analysis, Survey, Logo, Color palette, Typography, Information Architecture,
+- Secondary: Visual design(website& mobile), basketball profile Home Screen, Prototype, Case Study
+
+Sohila Mohamed
+- Primary: Research, Competitor Analysis,  Color palette, Typography, Information Architecture
+- Secondary: Visual design(website& mobile), Soccer ball profile Home Screen,  Prototype, Case Study
 
