@@ -51,8 +51,8 @@ Heba khalid
 
   
 Kerillos samy
-- Primary: Research, Competitor Analysis, User Persona, Color palette, Typography, Information Architecture IA
-- Secondary: Visual design(website& mobile), Swimming profile Home Screen, Chat Screen, Prototype, Case Study
+- Primary: Research, Competitor Analysis, User Persona, Color palette, Typography, Information Architecture 
+- Secondary: Visual design(website& mobile), Swimming profile Home Screen, Prototype, Case Study
 
   
 Menna younis
@@ -60,7 +60,7 @@ Menna younis
 - Secondary: Visual design(website& mobile), Gymnastics profile Home Screen, Prototype, Case Study
 
 Reem Mohamed Noaman
-- Primary: Research, Competitor Analysis, Survey, Logo, Color palette, Typography, Information Architecture,
+- Primary: Research, Competitor Analysis, Survey, Logo, Color palette, Typography, Information Architecture
 - Secondary: Visual design(website& mobile), basketball profile Home Screen, Prototype, Case Study
 
 Sohila Mohamed
