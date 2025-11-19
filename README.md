@@ -59,7 +59,7 @@ Menna younis
 - Primary: Research, Competitor Analysis, Card Sorting, User Persona, Color palette, Typography, Information Architecture
 - Secondary: Visual design(website& mobile), Gymnastics profile Home Screen, Prototype, Case Study
 
-Reem Mohamed Noaman
+Reem Mahmoud Noaman
 - Primary: Research, Competitor Analysis, Survey, Logo, Color palette, Typography, Information Architecture
 - Secondary: Visual design(website& mobile), basketball profile Home Screen, Prototype, Case Study
 
